@@ -127,8 +127,8 @@ This repository showcases samples and templates of:
 
 ## 🤝 Let's Connect
 
-* LinkedIn: https://linkedin.com/in/dannyarul
-* Portfolio: Add Your Portfolio URL
+* LinkedIn: www.linkedin.com/in/daniarul-profile
+* Portfolio: (https://daniarul-portfolio.lovable.app/)
 * Email: [daniarul03@gmail.com](mailto:daniarul03@gmail.com)
 
 ---
