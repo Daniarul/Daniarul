@@ -1,4 +1,4 @@
-# Hi, I'm Danny Arul 👋
+# Hi, I'm Daniarul 👋
 
 ### Associate Business Analyst | Functional Consultant | Logistics & Supply Chain Domain
 
